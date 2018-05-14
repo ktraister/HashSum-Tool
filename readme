@@ -1,0 +1,5 @@
+Welcome to hash summing made easy!
+
+Most repos of software will provide you not only with the files you are looking for, but also with the hash sum file containing all the files in the repo with their respective hash sums. If you're like me, and you don't want to waste time while making sure your download wasn't corrupted, this tool is your answer.
+
+This tool will read your sum file, find all the files from the sum file in your current working directory, and hash sum them, checking for a match or not. No more "Ehh, that looks correct..."!
